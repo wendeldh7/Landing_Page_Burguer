@@ -164,8 +164,7 @@ body{
         width: 125%;
     }
 
-    h4.text-h4 {
-        margin: 50px 0;
-}
-
+    .text-h4{
+margin: 50px 0;
+    }
 }
