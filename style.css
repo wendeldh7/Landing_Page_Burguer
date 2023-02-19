@@ -81,13 +81,13 @@ body{
 }
 .home-text{
     max-width: 37rem;
-    margin: 60px 0;
 }
 .home-text .text-h4{
     font-size: 1.5rem;
     color: var(--red);
     margin-bottom: 1rem;
-}
+
+margin-bottom: 60px 0;}
 .home-text .text-h1{
     font-size: 4rem;
     margin-bottom: 1rem;
