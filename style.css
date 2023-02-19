@@ -163,4 +163,8 @@ body{
     .home-img{
         width: 125%;
     }
+
+    .text-h4 {
+        margin: 60px 0;
+    }
 }
