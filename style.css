@@ -81,6 +81,7 @@ body{
 }
 .home-text{
     max-width: 37rem;
+    margin: 60px 0;
 }
 .home-text .text-h4{
     font-size: 1.5rem;
@@ -162,9 +163,5 @@ body{
     }
     .home-img{
         width: 125%;
-    }
-
-    .text-h4 {
-        margin: 60px 0;
     }
 }
